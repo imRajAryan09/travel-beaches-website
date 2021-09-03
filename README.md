@@ -1,7 +1,6 @@
 # Responsive Travel Website 🌊
-</br>
-</br>
-###  Responsive Travel Website 🌊
+
+
 
 - Travel website to the most beautiful beaches, using HTML, CSS & JavaScript.
 - Contains animations when scrolling.
